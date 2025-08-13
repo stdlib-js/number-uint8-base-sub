@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8c20ca4`](https://github.com/stdlib-js/stdlib/commit/8c20ca47e294c672e2261ca79452861dc3dd0764) - **bench:** fix types in C benchmarks [(#7865)](https://github.com/stdlib-js/stdlib/pull/7865) _(by Gunj Joshi)_
 -   [`b5cb6da`](https://github.com/stdlib-js/stdlib/commit/b5cb6da6915e43b4f3aec2387d3e2cd9f9b0999d) - **docs:** replace `integer` by `uinteger` in JSDocs [(#7866)](https://github.com/stdlib-js/stdlib/pull/7866) _(by Gunj Joshi)_
 -   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
 -   [`6c6fd79`](https://github.com/stdlib-js/stdlib/commit/6c6fd79627e1c79e5f98e53a05456057986c911a) - **build:** add package meta data _(by Athan Reines)_
