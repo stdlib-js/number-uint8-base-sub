@@ -54,6 +54,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+sub = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-uint8-base-sub/tags). For example,
+
+```javascript
 sub = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@v0.1.1-umd/browser.js' )
 ```
 
@@ -66,7 +71,7 @@ var sub = require( 'path/to/vendor/umd/number-uint8-base-sub/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -124,7 +129,7 @@ v = sub( 5, 0 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@v0.1.1-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
