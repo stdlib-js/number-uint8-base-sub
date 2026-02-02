@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@v0.1.1-esm/index.mjs';
 ```
 
 #### sub( x, y )
@@ -102,7 +102,7 @@ v = sub( 5, 0 );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@esm/index.mjs';
+import sub from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-sub@v0.1.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'uint8'
